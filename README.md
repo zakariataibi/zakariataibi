@@ -1,26 +1,24 @@
 <h2 align="center">👋 Hello! I'm Zakaria Taibi</h2>
 
 <p align="center">
-  <a href="mailto:zt47759@gmail.com">Email</a>
+  <i>Passionate about coding, learning, and giving back to the community</i>
 </p>
 
 ---
 
-- 💻 I'm learning and working with programming  
+### 💻 About Me
+- I'm a self-driven programmer exploring the world of technology  
 - 🛠 My skills: **Python, C++, Basic Linux**  
-- 📫 How to reach me: [zt47759@gmail.com](mailto:zt47759@gmail.com)  
-
-- ⚡ Fun facts about me:  
-  - I love coding and exploring new technologies  
-  - I enjoy volunteering and giving back to the community 🌱  
+- 🌱 Fun fact: I enjoy volunteering and contributing to the community  
+- ⚡ Always curious and love experimenting with new ideas
 
 ---
 
-### 📝 Latest Projects / Blog Posts
+### 📝 Latest Projects
 <!-- Add your projects or posts here -->
-- Project 1 - *Description or link*  
-- Project 2 - *Description or link*  
-- Project 3 - *Description or link*  
+- **Project 1** – *Short description or link*  
+- **Project 2** – *Short description or link*  
+- **Project 3** – *Short description or link*  
 
 ---
 
