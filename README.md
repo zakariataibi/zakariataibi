@@ -6,15 +6,15 @@
 
 ---
 
-- 🎓 I'm currently a student studying programming
-- 💻 My skills: **Python, C++, Basic Linux**
+- 💻 I'm learning and working with programming
+- 🛠 My skills: **Python, C++, Basic Linux**
 - 📫 How to reach me: [zt47759@gmail.com](mailto:zt47759@gmail.com)
-- ⚡ Fun fact: I love coding and learning new technologies
+- ⚡ Fun fact: I love coding and exploring new technologies
 
 ---
 
 ### 📝 Latest Projects / Blog Posts
-<!-- يمكنك إضافة مشاريعك أو مقالاتك هنا -->
+<!-- Add your projects or posts here -->
 - Project 1 - *Description or link*
 - Project 2 - *Description or link*
 - Project 3 - *Description or link*
