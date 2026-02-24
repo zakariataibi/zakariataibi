@@ -14,15 +14,17 @@
 
 ---
 
-### 📝 Latest Projects
-<!-- Add your projects or posts here -->
-- **Project 1** – *Short description or link*  
-- **Project 2** – *Short description or link*  
-- **Project 3** – *Short description or link*  
+### 📝 Latest Project
+- **Simple Encryption Tool** – *A Python-based tool that encrypts words or sentences. Currently under development to improve features, usability, and security.*  
+  [🔗 View on GitHub](https://github.com/zakariataibi/simple-encryption-tool.git)
 
 ---
 
 ### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
 <!--START_SECTION:waka-->
 
 ```txt
