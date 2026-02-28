@@ -20,12 +20,3 @@
 
 ---
 
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
